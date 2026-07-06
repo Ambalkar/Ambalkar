@@ -130,19 +130,6 @@ public class Devendra extends Developer {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ambalkar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ambalkar&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Ambalkar&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&dates=C9D1D9"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Ambalkar">
-</div>
-
----
-
 ## 🏆 Trophies
 
 <div align="center">
