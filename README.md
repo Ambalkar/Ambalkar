@@ -27,7 +27,7 @@
 public class Devendra extends Developer {
 
     String name     = "Devendra Ambalkar";
-    String location = "Nagpur, Maharashtra 🇮🇳";
+    String location = "Pune, Maharashtra 🇮🇳";
 
     String[] primaryStack = { "Java", "Spring Boot", "Python", "Django" };
     String[] frontEnd     = { "HTML5", "JavaScript", "TailwindCSS" };
